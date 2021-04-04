@@ -1,0 +1,22 @@
+{
+  "name": "html2tsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rramk/html2csv.git"
+  },
+  "author": "raghuram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rramk/html2csv/issues"
+  },
+  "homepage": "https://github.com/rramk/html2csv#readme",
+  "dependencies": {
+    "moment": "2.29.1"
+  }
+}
